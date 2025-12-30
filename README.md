@@ -3,7 +3,7 @@ Order Tracking System – Backend\
 This repository contains the backend of the Order Tracking System developed using Spring Boot
 and MySQL.
 
-Frontend Repository: https://github.com/R-Akhil09/order_tracking_fe
+Backend Repository: https://github.com/R-Akhil09/order_tracking_be
 
 Technologies Used
 Spring Boot, Java, REST APIs, MySQL
