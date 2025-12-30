@@ -11,20 +11,20 @@ Features :
 RESTful APIs for CRUD operations , 
 Order status updates , 
 MySQL integration , 
-CORS configuration , 
+CORS configuration 
 
 API Endpoints : 
 GET /api/orders , 
 GET /api/orders/{id} , 
 POST /api/orders , 
 PUT /api/orders/{id}/status , 
-DELETE /api/orders/{id} , 
+DELETE /api/orders/{id} 
 
 How to Run : 
 1. Clone the repository , 
 2. Configure application.properties , 
 3. Start MySQL , 
-4. Run Spring Boot app on port 8080 , 
+4. Run Spring Boot app on port 8080 
    
 Author : 
 Akhil Ramdas
